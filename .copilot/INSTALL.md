@@ -22,7 +22,7 @@ Quick setup to enable superpowers skills in Copilot.
 
 Test the installation:
 ```bash
-ls ~/.github/skills/superpowers/
+ls .github/skills/superpowers/
 ```
 
 You should see skill directories like `brainstorming/`, `test-driven-development/`, etc. The system is now ready for use.
