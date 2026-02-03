@@ -26,7 +26,7 @@ Thanks!
 
 ## Installation
 
-**Note:** Installation differs by platform. Claude Code has a built-in plugin system. Codex and OpenCode require manual setup.
+**Note:** Installation differs by platform. Claude Code has a built-in plugin system. Codex, OpenCode, and Copilot require manual setup.
 
 ### Claude Code (via Plugin Marketplace)
 
@@ -76,6 +76,16 @@ Fetch and follow instructions from https://raw.githubusercontent.com/obra/superp
 ```
 
 **Detailed docs:** [docs/README.opencode.md](docs/README.opencode.md)
+
+### Copilot
+
+Tell Copilot Chat:
+
+```
+Fetch and follow instructions from https://raw.githubusercontent.com/wangli-ustc/superpowers/refs/heads/main/.copilot/INSTALL.md
+```
+
+**Detailed docs:** [.github/INSTALL.md](.github/INSTALL.md)
 
 ## The Basic Workflow
 
